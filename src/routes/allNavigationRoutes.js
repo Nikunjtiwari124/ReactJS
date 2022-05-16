@@ -1,0 +1,12 @@
+export const ROUTE_LANDING = "/";
+export const ROUTE_REGISTER = "/signup";
+export const ROUTE_LOGIN = "/login";
+export const ROUTE_PRODUCT = "/product";
+export const ROUTE_FORGOT_PASSWORD = "/forgotpassword";
+export const ROUTE_DETAIL = "/productDetail/:productId";
+export const ROUTE_FAVROIT = "/favroit";
+export const ROUTE_CHECKOUT = "/checkout";
+export const ROUTE_PROFILE = "/profile";
+export const ROUTE_SETTING = "/setting";
+export const ROUTE_DASHBOARD = "/dashboard";
+export const ROUTE_ERROR = "*";

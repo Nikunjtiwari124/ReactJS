@@ -1,0 +1,30 @@
+.maindiv {
+
+    background-color: aqua;
+
+}
+
+.text_align_center {
+    text-align: center; 
+}
+
+.login_LogoImage {
+    width: 12.188rem;
+}
+.login_box{ 
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.field_vspace{
+    margin-bottom: 1rem !important;
+}
+
+.line-clamp {
+    display: "-webkit-box";
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+  }
+  
