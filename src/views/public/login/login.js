@@ -12,6 +12,8 @@ import "./style.scss";
 
 
 export default function LoginPage(props) {
+	
+	//testing
 
   const [loader, setLoader] = useState(false);
 
